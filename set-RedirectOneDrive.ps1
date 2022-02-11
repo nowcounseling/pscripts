@@ -4,7 +4,7 @@
 #>
 
 # Variables
-$Url = "https://gist.githubusercontent.com/aaronparker/cf124f13bb58d95342707527900d307b/raw/e4683d9bf95c5ac77c6d2d43b5f2454185cf1e55/Redirect-FoldersOneDrive.ps1"
+$Url = "https://raw.githubusercontent.com/nowcounseling/pscripts/main/SetKnownFolders.ps1"
 $Target = "$env:ProgramData\Scripts"
 $Script = "Redirect-FoldersOneDrive.ps1"
 
